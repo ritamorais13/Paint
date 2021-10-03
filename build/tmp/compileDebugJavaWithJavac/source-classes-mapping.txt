@@ -1,0 +1,19 @@
+com/example/paint/databinding/ActivitySplashScreenBinding.java
+ com.example.paint.databinding.ActivitySplashScreenBinding
+com/example/paint/databinding/ActivityMainBinding.java
+ com.example.paint.databinding.ActivityMainBinding
+com/example/paint/databinding/ActivityShowSettingsBinding.java
+ com.example.paint.databinding.ActivityShowSettingsBinding
+com/example/paint/databinding/ActivityAboutBinding.java
+ com.example.paint.databinding.ActivityAboutBinding
+com/example/paint/BuildConfig.java
+ com.example.paint.BuildConfig
+com/example/paint/SplashScreenActivity.java
+ com.example.paint.SplashScreenActivity
+ com.example.paint.SplashScreenActivity$1
+com/example/paint/About.java
+ com.example.paint.About
+com/example/paint/ShowSettings.java
+ com.example.paint.ShowSettings
+com/example/paint/MainActivity.java
+ com.example.paint.MainActivity
